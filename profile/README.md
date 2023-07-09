@@ -25,8 +25,9 @@ Project Phoenix is our flagship project aimed at developing a high-performance, 
 
 If you share our passion for engineering and social impact, we invite you to join our community and contribute to our projects. Whether you're an experienced professional or a beginner, there are opportunities for collaboration and learning.
 
-- Join our [Discord Server](https://discord.gg/eeewa) to connect with fellow members, ask questions, and get involved.
-- Visit our [Website](https://www.eeewa.org) to learn more about EEEWA and explore ways to participate.
+- Join our [Discord](https://discord.com/invite/dApMPzdVjs) to connect with fellow members, ask questions, and get involved.
+- Visit our [Website](https://www.eeewa.club) to learn more about EEEWA and explore ways to participate.
+- Visit our [Facebook](https://www.facebook.com/EEEWACLUB) to find our events and cool posts.
 
 Let's make a difference together through engineering innovation!
 
