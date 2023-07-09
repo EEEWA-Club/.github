@@ -1,10 +1,10 @@
-<!-- EEEWA GitHub Organization README -->
+<p align="center" width="100%">
+<img src="assets/download.png" alt="EEEWA Logo" style="width: 50%; min-width: 300px; display: block; margin: auto;">
+</p>
 
-# EEEWA
+# EEEWA: Electrical and Electronic Engineers of Western Australia
 
-![EEEWA Logo](download.png)
-
-Welcome to the official GitHub organization of EEEWA (Electrical and Electronic Engineers Without Borders Association)!
+Welcome to the official GitHub organization of EEEWA
 
 ## About Us
 
@@ -20,10 +20,6 @@ Project Phoenix is our flagship project aimed at developing a high-performance, 
 - [Phoenix-Control Repository](https://github.com/EEEWA-Club/Phoenix-Control)
 - [Phoenix-RF Repository](https://github.com/EEEWA-Club/Phoenix-RF)
 - [Phoenix-Modules Repository](https://github.com/EEEWA-Club/Phoenix-Modules)
-
-### Other Projects
-
-We have a diverse range of projects spanning various domains, including renewable energy, robotics, healthcare, and more. Explore our repositories to discover the exciting initiatives undertaken by our talented community.
 
 ## Get Involved
 
