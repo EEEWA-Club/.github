@@ -1,5 +1,5 @@
 <p align="center" width="50%">
-<img src=".github/download.png" alt="EEEWA Logo" style="width: 20%; min-width: 100px; display: block; margin: auto;">
+<img src="profile/download.png" alt="EEEWA Logo" style="width: 20%; min-width: 100px; display: block; margin: auto;">
 </p>
 
 # EEEWA: Electrical and Electronic Engineers of Western Australia
