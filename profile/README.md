@@ -2,7 +2,7 @@
 
 # EEEWA
 
-![EEEWA Logo](eeewa-logo.png)
+![EEEWA Logo](download.png)
 
 Welcome to the official GitHub organization of EEEWA (Electrical and Electronic Engineers Without Borders Association)!
 
@@ -13,8 +13,6 @@ EEEWA is a non-profit organization that brings together electrical and electroni
 ## Our Projects
 
 ### Project Phoenix
-
-![Project Phoenix Logo](phoenix-logo.png)
 
 Project Phoenix is our flagship project aimed at developing a high-performance, compact, and versatile RC car with advanced control systems and long-range RF communication. This project pushes the boundaries of RC car technology and serves as a platform for learning, experimentation, and innovation.
 
